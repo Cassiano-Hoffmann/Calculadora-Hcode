@@ -19,7 +19,7 @@ Abra o arquivo index.html no seu navegador.
 Comece a calcular!
 
 # Capturas de Tela
-
+![Calculadora Hcode](https://github.com/Cassiano-Hoffmann/Calculadora-Hcode/assets/117099774/7db09ac5-60ef-407a-9aaa-776ca9f7deef)
 
 # Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar a calculadora.
