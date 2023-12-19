@@ -13,7 +13,8 @@ Clone este repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/calculadora-multifuncional.git
+git clone https://github.com/Cassiano-Hoffmann/Calculadora-Hcode.git
+
 Abra o arquivo index.html no seu navegador.
 
 Comece a calcular!
